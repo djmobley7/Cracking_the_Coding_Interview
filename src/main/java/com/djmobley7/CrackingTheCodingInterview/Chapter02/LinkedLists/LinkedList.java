@@ -1,4 +1,4 @@
-package com.djmobley7.CrackingTheCodingInterview.Chapter2.LinkedLists;
+package com.djmobley7.CrackingTheCodingInterview.Chapter02.LinkedLists;
 
 public class LinkedList<T> {
 	protected Node head;

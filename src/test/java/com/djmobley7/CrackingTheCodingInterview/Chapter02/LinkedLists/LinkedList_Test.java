@@ -1,7 +1,9 @@
-package com.djmobley7.CrackingTheCodingInterview.Chapter2.LinkedLists;
+package com.djmobley7.CrackingTheCodingInterview.Chapter02.LinkedLists;
 
 import org.junit.Before;
 import org.junit.Test;
+
+import com.djmobley7.CrackingTheCodingInterview.Chapter02.LinkedLists.LinkedList;
 
 public class LinkedList_Test {
 	protected LinkedList<Integer> linkedList;
